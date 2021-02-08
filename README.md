@@ -1,7 +1,5 @@
 # proj83-mobile-vitual-assistant
 
-# pro**-mobile vitual assistant
-
 ## 项目名称
 
 移动虚拟助手

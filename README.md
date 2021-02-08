@@ -24,6 +24,7 @@
 
 龙军
 
+- github id: jdragonnudt
 - email: longj@jideos.com
 
 ## 难度
